@@ -3,8 +3,8 @@ title: Learnable Embedding Space for Efficient Neural Architecture Compression
 publication_types:
   - "1"
 authors:
-  - **Shengcao Cao\***
-  - Xiaofang Wang\*
+  - Shengcao Cao
+  - Xiaofang Wang
   - Kris M. Kitani
 publication_short: In ICLR 2019
 draft: false

@@ -6,7 +6,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:cao44[at]illinois.edu
+    link: mailto:cao44@illinois.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=6uRD5ywAAAAJ

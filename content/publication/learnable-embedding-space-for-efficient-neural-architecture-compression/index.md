@@ -17,4 +17,6 @@ summary: Search compressed network architectures in a learnable embedding space
   via Bayesian optimization, and find compressed networks outperforming
   hand-crafted architectures.
 date: 2019-04-25T17:00:00.000Z
+url_pdf: "https://arxiv.org/abs/1902.00383"
+url_code: "https://github.com/Friedrich1006/ESNAC"
 ---

@@ -20,7 +20,7 @@ publication_short: In ICLR 2019
 url_source: ""
 url_video: ""
 publication: ""
-featured: true
+featured: false
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 title: Learnable embedding space for efficient neural architecture compression

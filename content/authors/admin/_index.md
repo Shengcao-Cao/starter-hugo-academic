@@ -21,15 +21,15 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD in Computer Science, 2021 - Present
       institution: University of Illinois Urbana-Champaign
-      year: 2021
-    - course: MS in Robotics
+      year: ""
+    - course: MS in Robotics, 2019 - 2021
       institution: Carnegie Mellon University
-      year: 2019
-    - course: BS in Computer Science
+      year: ""
+    - course: BS in Computer Science, 2015 - 2019
       institution: Peking University
-      year: 2015
+      year: ""
 superuser: true
 highlight_name: true
 title: Shengcao Cao

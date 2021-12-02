@@ -1,14 +1,12 @@
 ---
 role: PhD Student
-avatar_filename: cao_shengcao_2019_2-copy.jpg
+avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - MachineLearning
-  - ComputerVision
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: cao44@illinois.edu
+    link: mailto:cao44[at]illinois.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=6uRD5ywAAAAJ
@@ -17,7 +15,7 @@ social:
     link: https://github.com/Friedrich1006
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/shengcao-cao-62a61a227/
 organizations:
   - name: University of Illinois Urbana-Champaign
     url: ""
@@ -25,13 +23,13 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Illinois Urbana-Champaign
-      year: ""
+      year: 2021
     - course: MS in Robotics
       institution: Carnegie Mellon University
-      year: ""
+      year: 2019
     - course: BS in Computer Science
       institution: Peking University
-      year: ""
+      year: 2015
 superuser: true
 highlight_name: true
 title: Shengcao Cao

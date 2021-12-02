@@ -41,4 +41,4 @@ I am a first-year PhD student in Computer Science at University of Illinois Urba
 
 I mainly study the intersection of machine learning and computer vision, in particular efficient neural networks, network compression, neural architecture search, and object detection. My major focus is to improve the (training, inference, searching) efficiency of deep learning models.
 
-Currently, I am looking for research internships for Summer 2022. Feel free to contact me if interested!
+I am looking for research internships for Summer 2022. Feel free to contact me if interested!

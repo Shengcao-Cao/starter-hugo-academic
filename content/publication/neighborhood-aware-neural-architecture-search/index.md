@@ -4,8 +4,8 @@ publication_types:
   - "1"
 authors:
   - Xiaofang Wang
-  - Shengcao Cao
-  - Mengtian Li
+  - Shengcao Cao*
+  - Mengtian Li*
   - Kris M. Kitani
 publication_short: In BMVC 2021
 abstract: "Existing neural architecture search (NAS) methods often return an
@@ -37,4 +37,5 @@ summary: Propose a novel neural architecture search formulation to encourage
   flatness in the architecture space, which improves generalization of searched
   architectures.
 date: 2021-10-29T17:00:05.432Z
+url_pdf: "https://arxiv.org/abs/2105.06369"
 ---

@@ -30,8 +30,8 @@ authors:
   - Kris M. Kitani
 author_notes:
   -
-  - "Equal contribution"
-  - "Equal contribution"
+  - "equal contribution"
+  - "equal contribution"
   - 
 publication_short: In BMVC 2021
 featured: false

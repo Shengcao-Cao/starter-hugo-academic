@@ -28,7 +28,7 @@ authors:
   - Shengcao Cao
   - Mengtian Li
   - Kris M. Kitani
-author_notes: []
+author_notes: [, "equal contribution", "equal contribution", ]
 publication_short: In BMVC 2021
 featured: false
 image:

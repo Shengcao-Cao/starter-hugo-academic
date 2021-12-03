@@ -18,7 +18,7 @@ content:
     exclude_featured: true
 headless: true
 design:
-  view: 1
+  view: 3
 ---
 
 {{% callout note %}}

@@ -3,7 +3,7 @@ widget: pages
 widget_id: publications
 weight: 90
 title: Publications
-subtitle: \* indicates equal contribution
+subtitle: ""
 active: true
 content:
   page_type: publication

@@ -10,7 +10,6 @@ authors:
 author_notes:
   - equal contribution
   - equal contribution
-  - ""
 publication_short: In ICCV 2021
 abstract: "DETR is a recently proposed Transformer-based method which views
   object detection as a set prediction problem and achieves state-of-the-art
@@ -33,4 +32,6 @@ image:
 summary: Analyze the slow convergence of DEtection TRansformer (DETR), and
   propose alternative solutions to improve convergence and performance of DETR.
 date: 2021-10-12T17:00:23.443Z
+url_pdf: "https://arxiv.org/abs/2011.10881"
+url_code: "https://github.com/Edward-Sun/TSP-Detection"
 ---

@@ -36,4 +36,5 @@ summary: Accelerate performance estimation for exploring new model
   configurations, improving neural achitecture search and hyper-parameter
   optimization within limited time.
 date: 2021-03-07T18:00:32.887Z
+url_pdf: "https://arxiv.org/abs/2103.04450"
 ---

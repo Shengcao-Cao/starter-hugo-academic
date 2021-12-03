@@ -19,7 +19,6 @@ abstract: 'Existing neural architecture search (NAS) methods often return an
   performance on established benchmarks, including CIFAR-10, CIFAR-100 and
   ImageNet. '
 draft: false
-url_pdf: https://arxiv.org/abs/2105.06369
 title: Neighborhood-Aware Neural Architecture Search
 publication_types:
   - "1"
@@ -42,5 +41,6 @@ image:
 summary: Propose a novel neural architecture search formulation to encourage
   flatness in the architecture space, which improves generalization of searched
   architectures.
-date: 2021-10-29T17:00:05.432Z
+date: 2021-05-13T17:00:05.432Z
+url_pdf: "https://arxiv.org/abs/2105.06369"
 ---

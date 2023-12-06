@@ -9,7 +9,7 @@ social:
     link: mailto:cao44@illinois.edu
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=6uRD5ywAAAAJ
+    link: https://scholar.google.com/citations?user=yMYTz3AAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Friedrich1006

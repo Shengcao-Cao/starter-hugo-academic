@@ -2,7 +2,7 @@
 widget: pages
 widget_id: publications
 weight: 90
-title: Publications
+title: Publications and Manuscripts
 subtitle: ""
 active: true
 content:

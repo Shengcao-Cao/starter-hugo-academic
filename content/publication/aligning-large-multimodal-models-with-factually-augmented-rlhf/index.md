@@ -1,4 +1,21 @@
 ---
+title: Aligning Large Multimodal Models with Factually Augmented RLHF
+publication_types:
+  - "3"
+authors:
+  - Zhiqing Sun
+  - Sheng Shen
+  - Shengcao Cao
+  - Haotian Liu
+  - Chunyuan Li
+  - Yikang Shen
+  - Chuang Gan
+  - Liangyan Gui
+  - Yu-Xiong Wang
+  - Yiming Yang
+  - Kurt Keutzer
+  - Trevor Darrell
+publication_short: Preprint
 abstract: Large Multimodal Models (LMM) are built across modalities and the
   misalignment between two modalities can result in "hallucination", generating
   textual outputs that are not grounded by the multimodal information in
@@ -21,32 +38,15 @@ abstract: Large Multimodal Models (LMM) are built across modalities and the
   achieve the 87% level), and an improvement of 60% on MMHAL-BENCH over other
   baselines.
 draft: false
-url_pdf: https://arxiv.org/abs/2309.14525
-publication_types:
-  - "3"
-authors:
-  - Zhiqing Sun
-  - Sheng Shen
-  - Shengcao Cao
-  - Haotian Liu
-  - Chunyuan Li
-  - Yikang Shen
-  - Chuang Gan
-  - Liangyan Gui
-  - Yu-Xiong Wang
-  - Yiming Yang
-  - Kurt Keutzer
-  - Trevor Darrell
-summary: Learn large multimodal models with RLHF augmented by factual
-  information to reduce hallucination.
-url_project: https://llava-rlhf.github.io
-title: Aligning Large Multimodal Models with Factually Augmented RLHF
-publication_short: Preprint
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-09-25T17:00:33.684Z
-url_code: https://github.com/Edward-Sun/TSP-Detection
+summary: Learn large multimodal models with RLHF augmented by factual
+  information to reduce hallucination.
+date: 2023-09-25T18:00:33.684Z
+url_pdf: "https://arxiv.org/abs/2309.14525"
+url_code: "https://github.com/llava-rlhf/LLaVA-RLHF"
+url_project: "https://github.com/llava-rlhf/LLaVA-RLHF"
 ---

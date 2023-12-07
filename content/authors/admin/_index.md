@@ -12,7 +12,7 @@ social:
     link: https://scholar.google.com/citations?user=yMYTz3AAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/Friedrich1006
+    link: https://github.com/Shengcao-Cao
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shengcao-cao-62a61a227/
@@ -37,8 +37,8 @@ email: cao44@illinois.edu
 ---
 Welcome!
 
-I am a first-year PhD student in Computer Science at University of Illinois Urbana-Champaign, advised by [Liangyan Gui](https://cs.illinois.edu/about/people/faculty/lgui) & [Yuxiong Wang](https://yxw.web.illinois.edu/). Previously, I graduated from Carnegie Mellon University with MS in Robotics, where I was advised by [Kris Kitani](http://www.cs.cmu.edu/~kkitani/), and Peking University with BS in Computer Science, where I was advised by [Liwei Wang](http://www.liweiwang-pku.com/).
+I am a third-year PhD student in Computer Science at University of Illinois at Urbana-Champaign, advised by [Liangyan Gui](https://cs.illinois.edu/about/people/faculty/lgui) & [Yuxiong Wang](https://yxw.web.illinois.edu/). Previously, I graduated from Carnegie Mellon University with MS in Robotics, where I was advised by [Kris Kitani](http://www.cs.cmu.edu/~kkitani/), and Peking University with BS in Computer Science, where I was advised by [Liwei Wang](http://www.liweiwang-pku.com/).
 
-I mainly study the intersection of machine learning and computer vision, in particular efficient neural networks, network compression, neural architecture search, and object detection. My major focus is to improve the (training, inference, searching) efficiency of deep learning models.
+I mainly study the intersection of machine learning and computer vision, in particular developing self-supervised approaches to object-level visual recognition. In addition to this data-efficient perspective, I also explore the computation efficiency of neural networks by network compression and neural architecture search.
 
-I am looking for research internships for Summer 2022. Feel free to contact me if interested!
+I am looking for research internships for Summer 2024. Feel free to contact me if interested!

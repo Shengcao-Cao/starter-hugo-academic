@@ -35,5 +35,5 @@ image:
   preview_only: false
 summary: Develop a fully self-supervised approach to object detection which
   understands part-to-whole composition and needs much less training costs
-date: 2023-12-07T18:00:47.480Z
+date: 2023-12-06T18:00:47.480Z
 ---

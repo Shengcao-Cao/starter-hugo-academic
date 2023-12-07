@@ -33,5 +33,7 @@ image:
 summary: Unify contrastive learning for representation learning and Mean Teacher
   for domain adaptation into one general-purpose framework for learning
   unsupervised domain adaptive object detectors.
+url_pdf: "https://arxiv.org/abs/2305.03034"
+url_code: "https://github.com/Shengcao-Cao/CMT"
 date: 2023-06-10T17:00:15.916Z
 ---

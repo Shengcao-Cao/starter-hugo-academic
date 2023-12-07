@@ -38,5 +38,7 @@ image:
 summary: Distill knowledge from an automatically designed sequence of teachers
   into a lightweight student object detector to mitigate the teacher-student
   capacity gap.
+url_pdf: "https://arxiv.org/abs/2308.09105"
+url_code: "https://github.com/Shengcao-Cao/MTPD"
 date: 2023-07-23T17:00:44.701Z
 ---

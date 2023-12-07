@@ -36,4 +36,7 @@ image:
 summary: Develop a fully self-supervised approach to object detection which
   understands part-to-whole composition and needs much less training costs
 date: 2023-12-06T18:00:47.480Z
+url_pdf: "https://openreview.net/pdf?id=sqkGJjIRfG"
+url_code: "https://github.com/Shengcao-Cao/HASSOD"
+url_project: "https://hassod-neurips23.github.io"
 ---

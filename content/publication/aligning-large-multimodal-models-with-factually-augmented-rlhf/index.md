@@ -45,5 +45,8 @@ image:
   preview_only: false
 summary: Learn large multimodal models with RLHF augmented by factual
   information to reduce hallucination.
-date: 2023-12-06T18:00:33.684Z
+date: 2023-09-25T18:00:33.684Z
+url_pdf: "https://arxiv.org/abs/2309.14525"
+url_code: "https://github.com/Edward-Sun/TSP-Detection"
+url_project: "https://llava-rlhf.github.io"
 ---

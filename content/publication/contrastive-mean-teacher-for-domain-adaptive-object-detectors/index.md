@@ -25,11 +25,11 @@ abstract: "Object detectors often suffer from the domain gap between training
   performance and provide more significant gains as pseudo-label noise
   increases. "
 draft: false
-featured: false
+featured: true
 image:
   filename: teaser.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 summary: Unify contrastive learning for representation learning and Mean Teacher
   for domain adaptation into one general-purpose framework for learning
   unsupervised domain adaptive object detectors.

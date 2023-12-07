@@ -29,7 +29,7 @@ featured: true
 image:
   filename: teaser.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 summary: Unify contrastive learning for representation learning and Mean Teacher
   for domain adaptation into one general-purpose framework for learning
   unsupervised domain adaptive object detectors.

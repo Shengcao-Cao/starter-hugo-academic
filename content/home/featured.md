@@ -2,7 +2,7 @@
 widget: featured
 widget_id: featured
 weight: 80
-title: Featured Publications
+title: Selected Publications
 subtitle: ""
 active: true
 content:

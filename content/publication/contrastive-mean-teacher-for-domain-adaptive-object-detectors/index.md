@@ -25,7 +25,7 @@ abstract: "Object detectors often suffer from the domain gap between training
   performance and provide more significant gains as pseudo-label noise
   increases. "
 draft: false
-featured: true
+featured: false
 image:
   filename: teaser.png
   focal_point: Smart

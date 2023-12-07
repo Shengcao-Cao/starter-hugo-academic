@@ -48,5 +48,5 @@ summary: Learn large multimodal models with RLHF augmented by factual
 date: 2023-09-25T18:00:33.684Z
 url_pdf: "https://arxiv.org/abs/2309.14525"
 url_code: "https://github.com/llava-rlhf/LLaVA-RLHF"
-url_project: "https://github.com/llava-rlhf/LLaVA-RLHF"
+url_project: "https://llava-rlhf.github.io"
 ---

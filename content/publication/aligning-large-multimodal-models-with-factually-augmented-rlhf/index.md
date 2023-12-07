@@ -45,5 +45,5 @@ image:
   preview_only: false
 summary: Learn large multimodal models with RLHF augmented by factual
   information to reduce hallucination.
-date: 2023-12-07T07:48:33.684Z
+date: 2023-12-06T18:00:33.684Z
 ---

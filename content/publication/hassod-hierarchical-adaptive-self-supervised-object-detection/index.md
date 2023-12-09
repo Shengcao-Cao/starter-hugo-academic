@@ -39,4 +39,5 @@ date: 2023-12-06T18:00:47.480Z
 url_pdf: "https://openreview.net/pdf?id=sqkGJjIRfG"
 url_code: "https://github.com/Shengcao-Cao/HASSOD"
 url_project: "https://hassod-neurips23.github.io"
+url_video: "https://www.youtube.com/watch?v=s8u7tEKg5ew"
 ---

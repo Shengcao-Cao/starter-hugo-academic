@@ -24,7 +24,7 @@ abstract: "DETR is a recently proposed Transformer-based method which views
   DETR, but also significantly outperform DETR and other baselines in terms of
   detection accuracy. "
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart

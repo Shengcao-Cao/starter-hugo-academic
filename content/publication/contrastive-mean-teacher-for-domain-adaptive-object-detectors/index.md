@@ -35,5 +35,6 @@ summary: Unify contrastive learning for representation learning and Mean Teacher
   unsupervised domain adaptive object detectors.
 url_pdf: "https://arxiv.org/abs/2305.03034"
 url_code: "https://github.com/Shengcao-Cao/CMT"
+url_video: "https://www.youtube.com/watch?v=NBcb3dcT_o4"
 date: 2023-06-10T17:00:15.916Z
 ---

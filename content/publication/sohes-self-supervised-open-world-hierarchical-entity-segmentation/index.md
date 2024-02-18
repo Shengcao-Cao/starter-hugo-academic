@@ -38,5 +38,8 @@ image:
   filename: sohes-teaser-new.png
   focal_point: Smart
   preview_only: false
+summary: Learn to segment visual entities and their parts in an open-world
+  with pure self-supervision.
 date: 2024-02-18T22:02:14.714Z
+url_pdf: "https://openreview.net/pdf?id=PXNrncg2DF"
 ---

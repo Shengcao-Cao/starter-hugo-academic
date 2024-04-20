@@ -41,5 +41,7 @@ image:
 summary: Learn to segment visual entities and their parts in an open-world
   with pure self-supervision.
 date: 2024-02-18T22:02:14.714Z
-url_pdf: "https://openreview.net/pdf?id=PXNrncg2DF"
+url_pdf: "https://arxiv.org/abs/2404.12386"
+url_project: "https://sohes.github.io"
+url_video: "https://www.youtube.com/watch?v=Q558YOmF7Zg"
 ---

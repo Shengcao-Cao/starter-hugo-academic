@@ -1,6 +1,6 @@
 ---
 role: PhD Student
-avatar_filename: headshot.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:

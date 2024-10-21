@@ -1,6 +1,6 @@
 ---
 role: PhD Student
-avatar_filename: avatar.jpg
+avatar_filename: headshot.jpg
 bio: ""
 interests: []
 social:
@@ -16,6 +16,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shengcao-cao-62a61a227/
+  - display:
+      header: false
+    link: https://x.com/Shengcao_Cao
+    icon_pack: fab
+    icon: twitter
 organizations:
   - name: University of Illinois Urbana-Champaign
     url: ""
@@ -37,7 +42,7 @@ email: cao44@illinois.edu
 ---
 Welcome!
 
-I am a third-year PhD student in Computer Science at University of Illinois at Urbana-Champaign, advised by [Liang-Yan Gui](https://cs.illinois.edu/about/people/faculty/lgui) & [Yu-Xiong Wang](https://yxw.web.illinois.edu/). Previously, I graduated from Carnegie Mellon University with MS in Robotics, where I was advised by [Kris Kitani](http://www.cs.cmu.edu/~kkitani/), and Peking University with BS in Computer Science, where I was advised by [Liwei Wang](http://www.liweiwang-pku.com/).
+I am a fourth-year PhD student in Computer Science at University of Illinois Urbana-Champaign, advised by [Liang-Yan Gui](https://cs.illinois.edu/about/people/faculty/lgui) & [Yu-Xiong Wang](https://yxw.web.illinois.edu/). Previously, I graduated from Carnegie Mellon University with MS in Robotics, where I was advised by [Kris Kitani](http://www.cs.cmu.edu/~kkitani/), and Peking University with BS in Computer Science, where I was advised by [Liwei Wang](http://www.liweiwang-pku.com/).
 
 I mainly study the intersection of machine learning and computer vision, in particular developing self-supervised approaches to object-level visual recognition. In addition to this data-efficient perspective, I also explore the computation efficiency of neural networks by network compression and neural architecture search.
 

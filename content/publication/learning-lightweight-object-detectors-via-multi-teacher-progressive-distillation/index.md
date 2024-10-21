@@ -1,16 +1,6 @@
 ---
 title: Learning Lightweight Object Detectors via Multi-Teacher Progressive
   Distillation
-publication_types:
-  - "1"
-authors:
-  - Shengcao Cao
-  - Mengtian Li
-  - James Hays
-  - Deva Ramanan
-  - Yi-Xiong Wang
-  - Liang-Yan Gui
-publication_short: In ICML 2023
 abstract: Resource-constrained perception systems such as edge computing and
   vision-for-robotics require vision models to be both accurate and lightweight
   in computation and memory usage. While knowledge distillation is a proven
@@ -30,6 +20,17 @@ abstract: Resource-constrained perception systems such as edge computing and
   unprecedentedly boost the performance of ResNet-50 based RetinaNet from 36.5%
   to 42.0% AP and Mask R-CNN from 38.2% to 42.5% AP on the MS COCO benchmark.
 draft: false
+url_pdf: https://arxiv.org/abs/2308.09105
+publication_types:
+  - "1"
+authors:
+  - Shengcao Cao
+  - Mengtian Li
+  - James Hays
+  - Deva Ramanan
+  - Yu-Xiong Wang
+  - Liang-Yan Gui
+publication_short: In ICML 2023
 featured: true
 image:
   filename: mtpd-thumb.png
@@ -38,7 +39,6 @@ image:
 summary: Distill knowledge from an automatically designed sequence of teachers
   into a lightweight student object detector to mitigate the teacher-student
   capacity gap.
-url_pdf: "https://arxiv.org/abs/2308.09105"
-url_code: "https://github.com/Shengcao-Cao/MTPD"
 date: 2023-07-23T17:00:44.701Z
+url_code: https://github.com/Shengcao-Cao/MTPD
 ---

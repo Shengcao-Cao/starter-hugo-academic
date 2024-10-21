@@ -25,7 +25,7 @@ abstract: Current large multimodal models (LMMs) face challenges in grounding,
   generation without any grounding supervision, outperforming the extensively
   supervised model GLaMM.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart

@@ -34,5 +34,9 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: Propose a "Swiss Army Knife" approach to preserve and exploit
+  representation biases during distillation from multiple Vision Foundation
+  Models.
 date: 2024-10-18T17:00:06.139Z
+url_pdf: "https://arxiv.org/abs/2410.14633"
 ---

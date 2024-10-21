@@ -30,5 +30,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: Achieve pixel-level grounding in LMMs without explicit grounding
+  supervision.
 date: 2024-10-10T17:00:10.884Z
+url_pdf: "https://arxiv.org/abs/2410.08209"
+url_code: "https://github.com/Shengcao-Cao/groundLMM"
+url_project: "https://groundLMM.github.io"
 ---

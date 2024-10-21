@@ -9,7 +9,6 @@ authors:
 author_notes:
   - equal contribution
   - equal contribution
-  - ""
 publication_short: In CVPR 2024
 abstract: "The limited scale of current 3D shape datasets hinders the
   advancements in 3D shape understanding and motivates multi-modal learning
@@ -39,5 +38,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: Propose a multi-modal learning framework for 3D shapes with two learning
+  stages and three unified adapter modules.
 date: 2024-06-17T17:00:00.000Z
+url_pdf: "https://arxiv.org/abs/2402.18490"
+url_code: "https://github.com/alanzhangcs/Tamm_Code"
+url_project: "https://alanzhangcs.github.io/tamm-page"
 ---

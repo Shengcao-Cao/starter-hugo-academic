@@ -1,5 +1,9 @@
 ---
 title: Aligning Large Multimodal Models with Factually Augmented RLHF
+author_notes:
+  - equal contribution
+  - equal contribution
+  - equal contribution
 abstract: Large Multimodal Models (LMM) are built across modalities and the
   misalignment between two modalities can result in "hallucination", generating
   textual outputs that are not grounded by the multimodal information in

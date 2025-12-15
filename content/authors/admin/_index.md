@@ -1,5 +1,5 @@
 ---
-role: PhD Student
+role: PhD in Computer Science
 avatar_filename: avatar.jpg
 bio: ""
 interests: []

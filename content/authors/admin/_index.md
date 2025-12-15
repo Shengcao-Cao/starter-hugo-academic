@@ -26,7 +26,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Computer Science, 2021 - Present
+    - course: PhD in Computer Science, 2021 - 2025
       institution: University of Illinois Urbana-Champaign
       year: ""
     - course: MS in Robotics, 2019 - 2021
@@ -42,8 +42,4 @@ email: cao44@illinois.edu
 ---
 Welcome!
 
-I am a fourth-year PhD student in Computer Science at University of Illinois Urbana-Champaign, advised by [Liang-Yan Gui](https://cs.illinois.edu/about/people/faculty/lgui) & [Yu-Xiong Wang](https://yxw.web.illinois.edu/). Previously, I graduated from Carnegie Mellon University with MS in Robotics, where I was advised by [Kris Kitani](http://www.cs.cmu.edu/~kkitani/), and Peking University with BS in Computer Science, where I was advised by [Liwei Wang](http://www.liweiwang-pku.com/).
-
 I mainly study the intersection of machine learning and computer vision, in particular developing visually grounded large multimodal models, and self-supervised approaches to object-level visual recognition. I also explore computation-efficient vision models via model compression and neural architecture search.
-
-I am looking for research internships for Summer 2025. Feel free to contact me if interested!
